@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A few coding projects I've worked on.
+description: A few coding projects I'm working on
 nav: true
 nav_order: 3
 display_categories: 
