@@ -7,21 +7,14 @@
     "phone": "(412) 699-4592",
     "url": "",
     "summary": "Passionate Technical Program Manager with over 5 years of experience leading highly performant software development programs.",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Pittsburgh",
-      "countryCode": "US",
-      "region": "Pennsylvania"
-    },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "lraponi",
-        "url": "linkedin.com/in/lraponi"
-      }
-    ]
+    "location": "<a href=https://google.com/maps/place/Pittsburgh,+PA,+USA>Pittsburgh, PA, USA</a>"
   },
+
+  "profiles": {
+    "LinkedIn": "<a href=https://linkedin.com/in/lraponi>linkedin.com/in/lraponi</a>",
+    "GitHub": "<a href=https://github.com/rodeocrazy>github.com/rodeocrazy</a>"
+  },
+
   "work": [
     {
       "name": "Basis Technologies (Formerly Centro Inc.)",
@@ -81,39 +74,62 @@
 
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "PMI: Project Management Professional (PMP #2816148)",
+      "date": "",
+      "issuer": "",
+      "url": "",
       "icon": "fa-solid fa-location-dot"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Project Management Tools",
+      "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Atlassian Suite (JIRA, Bitbucket, Confluence)",
+        "Asana",
+        "Aha!",
+        "Microsoft Project"
       ]
-    }
-  ],
-  "interests": [
+    },
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Programming Languages",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Data Visualization Tools",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "PowerBI",
+        "Datadog",
+        "Metabase",
+        "Tableau"
+      ]
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Advanced in Excel, Sharepoint, Power Automate and associated tools"
+      ]
+    },
+    {
+      "name": "Other Tools",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "ChatGPT",
+        "Lucidchart",
+        "Smartsheet",
+        "Workday"
       ]
     }
   ]
