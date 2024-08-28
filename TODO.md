@@ -6,6 +6,7 @@ About Page
 
 blog
 - think of best way to post content from Linkedin
+    - Can use URL links in config file (manual process)
 
 projects
 - remove all projects
