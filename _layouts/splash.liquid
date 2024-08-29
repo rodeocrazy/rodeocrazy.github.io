@@ -1,0 +1,41 @@
+---
+layout: default
+---
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">
+      {% if site.title == 'blank' %}
+        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
+        {{ site.last_name }}
+      {% else %}
+        {{ site.title }}
+      {% endif %}
+    </h1>
+    <p class="desc">{{ page.subtitle }}</p>
+  </header>
+
+  <article>
+    {% if page.splashprofile %}
+      <div class="splashprofile float-{% if page.splashprofile.align == 'left' %}left{% else %}right{% endif %}">
+        {% if page.splashprofile.image %}
+          {% assign splashprofile_image_path = page.splashprofile.image | prepend: 'assets/img/' %}
+          {% if page.splashprofile.image_circular %}
+            {% assign splashprofile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+          {% else %}
+            {% assign splashprofile_image_class = 'img-fluid z-depth-1
+      rounded' %}
+          {% endif %}
+          {%
+            include figure.liquid loading="eager" path=splashprofile_image_path class=splashprofile_image_class sizes=sizes alt=page.splashprofile.image
+            cache_bust=true
+          %}
+        {% endif %}
+        {% if page.splashprofile.more_info %}
+          <div class="more-info">{{ page.splashprofile.more_info }}</div>
+        {% endif %}
+      </div>
+    {% endif %}
+  </article>
+
+  
+</div>
