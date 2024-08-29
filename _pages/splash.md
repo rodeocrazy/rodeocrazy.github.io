@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: splash
+title: 
 permalink: /
 nav: false
 nav_order: 
