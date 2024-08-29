@@ -1,12 +1,12 @@
 ---
 layout: splash
-title: 
+title: splash
 permalink: /
 nav: false
 nav_order: 
 subtitle: Technical Program Manager | Pittsburgh, PA 🇺🇸
 
-splashprofile:
+profile:
   align: left
   image: img_2410.JPG
   image_circular: false # crops the image to make it circular
