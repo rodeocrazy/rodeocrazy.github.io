@@ -26,8 +26,7 @@ layout: default
       rounded' %}
           {% endif %}
           {%
-            include figure.liquid loading="eager" path=splashprofile_image_path class=splashprofile_image_class sizes=sizes alt=page.splashprofile.image
-            cache_bust=true
+            include figure.liquid loading="eager" path=splashprofile_image_path class=splashprofile_image_class sizes=sizes
           %}
         {% endif %}
         {% if page.splashprofile.more_info %}
