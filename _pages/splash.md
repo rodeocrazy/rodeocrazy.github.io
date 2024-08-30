@@ -6,9 +6,9 @@ nav: false
 nav_order: 
 subtitle: Technical Program Manager | Pittsburgh, PA 🇺🇸
 
-profile:
+splashprofile:
   align: left
-  image: img_2410.JPG
+  image: img2410.jpg
   image_circular: false # crops the image to make it circular
   more_info: #>
     #<p>Pittsburgh, PA 15201</p>
