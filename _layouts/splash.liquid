@@ -18,17 +18,17 @@ layout: default
     {% if page.splashprofile %}
       <div class="profile float-{% if page.splashprofile.align == 'left' %}left{% else %}right{% endif %}">
         {% if page.splashprofile.image %}
-          {% assign profile_image_path = page.splashprofile.image | prepend: 'assets/img/' %}
+          {% assign splashprofile_image_path = page.splashprofile.image | prepend: 'assets/img/' %}
           {% if page.splashprofile.image_circular %}
-            {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+            {% assign splashprofile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
           {% else %}
-            {% assign profile_image_class = 'img-fluid z-depth-1
+            {% assign splashprofile_image_class = 'img-fluid z-depth-1
       rounded' %}
           {% endif %}
           {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
       30vw, 95vw"{% endcapture %}
           {%
-            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.splashprofile.image
+            include figure.liquid loading="eager" path=splashprofile_image_path class=splashprofile_image_class sizes=sizes alt=page.splashprofile.image
             cache_bust=true
           %}
         {% endif %}
