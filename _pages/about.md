@@ -9,7 +9,7 @@ subtitle: Technical Program Manager | Pittsburgh, PA 🇺🇸
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false # crops the image to make it circulars
   more_info: #>
     #<p>Pittsburgh, PA 15201</p>
 
