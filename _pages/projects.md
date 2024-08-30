@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 display_categories: 
 horizontal: false
+
+social: true # includes social icons at the bottom of the page
 ---
 
 <!-- pages/projects.md -->
