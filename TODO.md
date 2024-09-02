@@ -1,17 +1,14 @@
-Splash Page
-- Use About page but without any body text
-
-About Page
-- Create written content
+photos page/stream?
 
 blog
-- think of best way to post content from Linkedin
-    - Can use URL links in config file (manual process)
+- start writing!
 
 projects
-- remove all projects
-- remove work/fun headings
+- start adding github projects
 
 CV
-- json resume
 - link to resume in DRIVE
+
+SLOTS
+- Change slot page to project page
+- change default.liquid to slot.liquid page referencing default
