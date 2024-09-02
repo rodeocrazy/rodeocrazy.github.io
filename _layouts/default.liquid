@@ -13,6 +13,9 @@
       <meta http-equiv="refresh" content="3; url={{ redirect }}">
     {% endif %}
     {% include head.liquid %}
+
+    <!-- Add this line for the slot machine CSS -->
+    <link rel="stylesheet" href="{{ '/assets/css/slot-machine.css' | relative_url }}">
   </head>
 
   <!-- Body -->
@@ -47,14 +50,24 @@
       {% endif %}
     </div>
   
-  <!-- Social -->
-  {% if page.social %}
-    <div class="social">
-      <div class="contact-icons">{% include social.liquid %}</div>
+    <!-- JavaScript files -->
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    {% if page.custom_js %}
+        {% for js_file in page.custom_js %}
+            <script src="{{ '/assets/js/' | append: js_file | append: '.js' | relative_url }}"></script>
+        {% endfor %}
+    {% endif %}
+    <!-- Add this line for the slot machine JavaScript -->
+    <script src="{{ '/assets/js/slot-machine.js' | relative_url }}"></script>
 
-      <div class="contact-note">{{ site.contact_note }}</div>
-    </div>
-  {% endif %}
+    <!-- Social -->
+    {% if page.social %}
+      <div class="social">
+        <div class="contact-icons">{% include social.liquid %}</div>
+
+        <div class="contact-note">{{ site.contact_note }}</div>
+      </div>
+    {% endif %}
 
     <!-- Footer -->
     {% include footer.liquid %}
