@@ -14,8 +14,6 @@
     {% endif %}
     {% include head.liquid %}
 
-    <!-- Add this line for the slot machine CSS -->
-    <link rel="stylesheet" href="{{ '/assets/css/slot-machine.css' | relative_url }}">
   </head>
 
   <!-- Body -->
@@ -57,8 +55,7 @@
             <script src="{{ '/assets/js/' | append: js_file | append: '.js' | relative_url }}"></script>
         {% endfor %}
     {% endif %}
-    <!-- Add this line for the slot machine JavaScript -->
-    <script src="{{ '/assets/js/slot-machine.js' | relative_url }}"></script>
+
 
     <!-- Social -->
     {% if page.social %}
