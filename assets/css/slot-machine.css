@@ -1,0 +1,54 @@
+/* assets/css/slot-machine.css */
+.slot-machine {
+    max-width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .reels {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .reel {
+    width: 60px;
+    height: 60px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 32px;
+  }
+  
+  .result {
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .spin-button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .spin-button:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+  }

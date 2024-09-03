@@ -1,17 +1,8 @@
-Splash Page
-- Use About page but without any body text
-
-About Page
-- Create written content
+photos page/stream?
 
 blog
-- think of best way to post content from Linkedin
-    - Can use URL links in config file (manual process)
+- start writing!
 
-projects
-- remove all projects
-- remove work/fun headings
-
-CV
-- json resume
-- link to resume in DRIVE
+SLOTS
+- Add money counter and charge for every spin
+    - Database of highest scores

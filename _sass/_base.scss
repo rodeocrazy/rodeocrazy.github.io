@@ -310,6 +310,7 @@ ul.task-list input[type="checkbox"] {
   .navbar-brand.social {
     padding-bottom: 0;
     padding-top: 0;
+    text-align: left;
     font-size: 1.7rem;
 
     a {
@@ -378,16 +379,74 @@ ul.task-list input[type="checkbox"] {
     color: var(--global-hover-color);
   }
 }
+// Social (header)
 
-// Social (bottom)
-
-.social {
+.socialheader {
   text-align: left;
   width: 100%;
   height: auto;
 
   .contact-icons {
     font-size: 2rem;
+
+    a {
+      i::before {
+        color: var(--global-text-color);
+        transition-property: all 0.2s ease-in-out;
+      }
+
+      &:hover {
+        i::before {
+          color: var(--global-theme-color);
+        }
+      }
+    }
+  }
+
+  .contact-note {
+    font-size: 0.8rem;
+  }
+}
+
+.wechat-modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  padding-top: 100px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.wechat-modal > img {
+  display: block;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  width: 33%;
+  max-width: 400px;
+  transform: translate(-50%, -50%);
+}
+
+@media only screen and (max-width: 400px) {
+  .wechat-modal > img {
+    width: 100%;
+  }
+}
+
+// Social (bottom)
+
+.social {
+  text-align: center;
+  width: 100%;
+  height: auto;
+
+  .contact-icons {
+    font-size: 5rem;
 
     a {
       i::before {
