@@ -17,4 +17,4 @@ The rest is history. I am now a seasoned technical program manager with over 6 y
 
 I would describe my program management style as Lean, focused on understanding the problems that need to be solved and developing minimum viable solutions. I'm a strong believer in the <a href="https://en.wikipedia.org/wiki/Pareto_principle">Pareto Principle</a> and rigorously strive to identify the 20% of program and process management efforts that lead to 80% of positive outcomes. I'm a process management minimalist, always asking, "What is the minimum viable process to achieve our defined goal?". I am enthusiastic about reducing or removing process burdens where they are no longer viable. As a people manager, I aim to act as a servant leader, focused on understanding my team members' day-to-day challenges to better mentor and serve them.
 
-I'm currently pursuing new opportunities in program and project management. Please feel free to reach out to me directly on LinkedIn or via email!
+I've recently started a new role as Program Manager at Ticketmaster, supporting Festivals & General Admissions technology. Please feel free to reach out to me directly on LinkedIn or via email!
