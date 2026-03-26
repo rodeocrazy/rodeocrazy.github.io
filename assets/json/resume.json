@@ -6,7 +6,7 @@
     "email": "lucaraponi2@gmail.com",
     "phone": "(412) 699-4592",
     "url": "",
-    "summary": "Passionate Technical Program Manager with over 6 years of experience leading highly performant software development programs.",
+    "summary": "Technical Program Manager with nearly a decade of experience delivering complex, revenue-critical software programs across global, high-stakes environments, driving change management, alignment, and adoption at every stage. Partners with executives, product, and engineering leaders to transform ambiguous business needs into clear roadmaps and shipped outcomes, leveraging data, AI, and structured program discipline to deliver at scale and reduce execution risk.",
     "location": "<a href=https://google.com/maps/place/Pittsburgh,+PA,+USA>Pittsburgh, PA, USA</a>"
   },
 
@@ -18,43 +18,35 @@
   "work": [
     {
       "name": "Ticketmaster",
-      "position": "Program Manager, Festivals & General Admission",
+      "position": "Technical Program Manager",
       "url": "",
-      "startDate": "2024-11-28",
+      "startDate": "2024-10-01",
       "endDate": "Present",
-      "summary": "<ul><li><p>Supporting Festivals & General Admissions technologies.</p></li></ul>"
+      "summary": "<ul><li><p>Governed delivery across 11 concurrent technology programs spanning global engineering, product, operations, and sales teams, maintaining programs within 8% of original budget targets through rigorous change control and weekly executive-facing risk reviews.</p></li><li><p>Designed and automated real-time portfolio reporting across DOMO, JIRA, and Smartsheet using AI-assisted tooling, cutting executive reporting prep time from hours to minutes and enabling same-day visibility into schedule risks and program health.</p></li><li><p>Partnered directly with C-suite and technology leadership across 5 portfolio companies to translate market, client, and regulatory requirements into actionable roadmaps and investment priorities, reducing quarterly planning cycle time by 27% through structured intake, prioritization frameworks, and stakeholder alignment processes.</p></li><li><p>Drove change management and adoption for high-risk platform launches in 27 countries, coordinating global stakeholders and external partners to deliver 100% of event-critical technology releases on time with zero revenue-impacting incidents.</p></li><li><p>Spearheaded the first Apple Wallet Pass 2.0 festival deployment in North America at Governor's Ball, developing and presenting the Enhanced SafeTix business case to secure $1.3M in steering committee funding and delivering the pilot on a fixed event timeline.</p></li><li><p>Collaborated with the global PMO to architect and standardize the organization's AI Program Management policy, leveraging Claude Code to automate PMO artifact updates and engineering health metrics via Airtable dashboards, streamlining reporting processes and reducing manual PMO overhead.</p></li></ul>"
     },
     {
-      "name": "Basis Technologies (Formerly Centro Inc.)",
+      "name": "Basis Technologies",
       "position": "Manager, Technical Program Management",
       "url": "",
       "startDate": "2021-09-01",
       "endDate": "2023-12-01",
-      "summary": "<ul><li><p>Led a high performing team of 6 associate to senior level technical project managers and scrum masters. Acted as a mentor to support my team in creating performant software development cross-functional teams, while coaching them to become self-organizing and self-motivating.</p></li><li><p>Worked closely with C-Suite and Technology Leadership to improve program processes (including SDLCs and product intake and development processes), identify, and provide proactive responses to risk, and supply detailed project information to monitor and support program goals.</p></li><li><p>Supported day-to-day operations and growth of a software engineering program of 157 contributors.</p></li><li><p>Collaborated with high-value users and customer facing teams to ensure our customers voice is heard and integrated into technology offerings. Collaborated daily with Product Managers and User Researchers, providing mentorship and end-to-end support of the product life cycle (including user interviews during ideation and beta testing).</p></li><li><p>Started internal program and established processes for US federal research and development tax credit, claiming $1.67 million in tax credits.</p></li><li><p>Implemented SPACE framework for developer productivity. Drafted and obtained approval from program and executive leadership on technical KPIs. Created automated Power BI dashboards displaying real -time technology KPIs.</p></li><li><p>Worked closely with a variety of functional groups including: Software Engineering, Big Data Engineering, Data Science, Production Operations, Automated &amp; Manual Quality Assurance, UI Design, UX Research, Product Management, Customer Success, Product Marketing, Legal, and Accounting &amp; Finance.</p></li></ul>"
+      "summary": "<ul><li><p>Founded and scaled the TPMO from the ground up, defining the function, establishing hiring criteria, and recruiting 6 TPMs across associate to senior levels, growing engineering team coverage from 2 to 9 teams and achieving 100% project reporting coverage across the technology organization.</p></li><li><p>Owned end-to-end delivery of multiple ML optimization initiatives, including campaign impression optimization models and cold-start brand base models, partnering with data science and backend engineering from business ideation through production deployment, increasing client-wide impression prediction accuracy by 23%.</p></li><li><p>Directed a 6-month enterprise-wide MySQL to Snowflake data warehouse migration across the full technology portfolio, coordinating 4 TPMs and multiple engineering teams through parallel database cutover, query optimization, and application-level changes, reducing average query execution time by 65%.</p></li><li><p>Championed process improvement across SDLCs and product intake, implementing the SPACE framework, OKR goal-setting cadences, and automated Power BI dashboards to establish a formal engineering KPI program with real-time executive visibility for the first time.</p></li><li><p>Established the program and documentation infrastructure for the US federal R&D tax credit, securing $1.67M in credits and creating a repeatable annual process adopted by finance and engineering leadership.</p></li></ul>"
     },
     {
       "name": "Centro Inc.",
-      "position": "Technical Project Manager & Scrum Master",
+      "position": "Technical Project Manager",
       "url": "",
       "startDate": "2019-09-01",
       "endDate": "2021-08-01",
-      "summary": "<ul><li><p>Collaborated daily with all engineering teams under our Demand-Side Platform (DSP) program to deliver complex and innovative software using agile methodologies.</p></li><li><p>Managed large cross-functional projects and programs such as Disaster Recovery initiatives and Machine Learning Optimization.</p></li><li><p>Acted as a strong team player to support the creation of high performing cross-functional scrum teams engaging frequently with our Data Science and Big Data groups to secure functional expertise.</p></li><li><p>Streamlined Scrum practices and facilitated Scrum ceremonies for 5 agile software development teams resulting in a 27% increase in the predictably of timely project delivery.</p></li><li><p>Managed Atlassian Suite (Bitbucket, JIRA and Confluence) administration, supporting process engineering, establishing new workflows, troubleshooting, automation setup and add-on procurement.</p></li></ul>"
+      "summary": "<ul><li><p>Served as hands-on agile practitioner across 3 DSP engineering teams, facilitating sprint ceremonies and delivering process artifacts that increased sprint commitment accuracy to 85% and cut critical bugs reaching production by 30% over 6 months.</p></li><li><p>Led an on-premises to AWS cloud migration program to modernize disaster recovery infrastructure and enable elastic scaling during high-demand advertising periods, including Black Friday and end-of-year campaigns, reducing infrastructure risk and ensuring platform availability during peak revenue-generating traffic.</p></li><li><p>Managed vendor relationships and contract negotiations across SaaS tool procurement, third-party data feed agreements, and AWS infrastructure contracts, reducing vendor costs by 15% through competitive renewal negotiations and consolidating redundant tooling across the engineering organization.</p></li></ul>"
     },
     {
       "name": "Centro Inc.",
       "position": "Associate Project Manager",
       "url": "",
-      "startDate": "2018-08-01",
+      "startDate": "2018-09-01",
       "endDate": "2019-08-01",
-      "summary": "<ul><li><p>Collaborated closely with cross-functional engineering teams to achieve product objectives, resolve development obstacles, address resource issues, and ensure timely project completion.</p></li><li><p>Facilitated Agile ceremonies, supplied Agile coaching services, monitored Sprint performance, and delivered comprehensive project status reports to program leadership to uphold project momentum and alignment with strategic goals.</p></li><li><p>Supplied accurate and transparent delivery updates to customers and executives to support informed decision-making and ensure alignment with project milestones.</p></li></ul>"
-    },
-    {
-      "name": "Centro Inc.",
-      "position": "Project Management Intern",
-      "url": "",
-      "startDate": "2018-06-01",
-      "endDate": "2018-08-01",
-      "summary": ""
+      "summary": "<ul><li><p>Coordinated critical production incident response across on-call engineering teams, establishing structured JIRA severity workflows and escalation processes that maintained a 24-hour SLA and reduced average incident resolution time by 17%.</p></li><li><p>Owned Atlassian Suite administration across JIRA and Confluence, managing 100+ paid seats and building 17+ automation rules that saved an estimated 2 hours of manual effort per team per sprint while eliminating 40% of redundant custom fields and workflows through process consolidation.</p></li></ul>"
     }
   ],
   "education": [
@@ -87,57 +79,80 @@
       "issuer": "",
       "url": "",
       "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Canadian Securities Course (CSC)",
+      "date": "",
+      "issuer": "Canadian Securities Institute",
+      "url": "",
+      "icon": "fa-solid fa-location-dot"
     }
   ],
   "skills": [
     {
-      "name": "Project Management Tools",
+      "name": "Core Competencies",
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Atlassian Suite (JIRA, Bitbucket, Confluence)",
+        "Program & Portfolio Management",
+        "Agile & Scrum, SAFe, Kanban",
+        "OKRs & RAID Log Management",
+        "Risk Management & Change Management",
+        "Budget Management & Roadmapping",
+        "Stakeholder Engagement",
+        "ML Program Delivery",
+        "SDLC Optimization",
+        "Vendor & Contract Management",
+        "Capacity Planning & Resource Management"
+      ]
+    },
+    {
+      "name": "Program Management Tools",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Atlassian Suite (JIRA, Confluence, Bitbucket)",
+        "Smartsheet",
         "Asana",
         "Aha!",
         "Microsoft Project"
       ]
     },
     {
-      "name": "Programming Languages",
+      "name": "Data & Reporting",
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Python",
-        "SQL"
-      ]
-    },
-    {
-      "name": "Data Visualization Tools",
-      "level": "",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "PowerBI",
-        "Datadog",
+        "DOMO",
+        "Power BI",
+        "Tableau",
         "Metabase",
-        "Tableau"
+        "Airtable",
+        "Snowflake",
+        "Excel (advanced)",
+        "Power Automate",
+        "SharePoint"
       ]
     },
     {
-      "name": "Microsoft Office",
+      "name": "Engineering & Development",
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Advanced in Excel, Sharepoint, Power Automate and associated tools"
+        "Python (scripting & automation)",
+        "SQL (data querying & reporting)",
+        "AWS (program-level)",
+        "Figma"
       ]
     },
     {
-      "name": "Other Tools",
+      "name": "AI & Automation",
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "ChatGPT",
-        "Lucidchart",
-        "Smartsheet",
-        "Workday"
+        "AI Governance & Policy",
+        "Prompt Engineering",
+        "AI-assisted PMO reporting & workflows"
       ]
     }
   ]
