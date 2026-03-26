@@ -6,7 +6,7 @@
     "email": "lucaraponi2@gmail.com",
     "phone": "(412) 699-4592",
     "url": "",
-    "summary": "Passionate Technical Program Manager with over 5 years of experience leading highly performant software development programs.",
+    "summary": "Passionate Technical Program Manager with over 6 years of experience leading highly performant software development programs.",
     "location": "<a href=https://google.com/maps/place/Pittsburgh,+PA,+USA>Pittsburgh, PA, USA</a>"
   },
 
@@ -16,6 +16,14 @@
   },
 
   "work": [
+    {
+      "name": "Ticketmaster",
+      "position": "Program Manager, Festivals & General Admission",
+      "url": "",
+      "startDate": "2024-11-28",
+      "endDate": "Present",
+      "summary": "<ul><li><p>Supporting Festivals & General Admissions technologies.</p></li></ul>"
+    },
     {
       "name": "Basis Technologies (Formerly Centro Inc.)",
       "position": "Manager, Technical Program Management",
