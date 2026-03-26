@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm update:*)",
+      "Bash(npm install:*)",
+      "Bash(bundle install:*)",
+      "Bash(bundle exec:*)",
+      "Bash(pip --version)",
+      "Bash(pip3 --version)",
+      "Bash(pip install:*)",
+      "Bash(jupyter --version)",
+      "Bash(python -m jupyter --version)",
+      "Bash(where jupyter:*)",
+      "Bash(python -c \"import sys; print\\(sys.executable\\)\")",
+      "Bash(python -c \"import site; print\\(site.getusersitepackages\\(\\)\\)\")",
+      "Bash(JUPYTER_SCRIPTS=\"/c/Users/Luca/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/LocalCache/local-packages/Python313/Scripts\")",
+      "Bash(export PATH=\"$JUPYTER_SCRIPTS:$PATH\")",
+      "Bash(export PATH=\"/c/Users/Luca/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/LocalCache/local-packages/Python313/Scripts:$PATH\")",
+      "Bash(gh pr:*)"
+    ]
+  }
+}
